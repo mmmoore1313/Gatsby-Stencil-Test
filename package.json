@@ -16,7 +16,11 @@
   },
   "dependencies": {
     "gatsby": "^4.0.1",
+    "gatsby-plugin-stencil": "0.2.0",
+    "glob": "^7.2.0",
+    "mediumtutorial": "^0.0.2",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "spec-ods": "^0.0.7"
   }
 }
